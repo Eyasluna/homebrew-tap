@@ -1,8 +1,8 @@
 class TimesheetAutomator < Formula
   desc "Biweekly timesheet generator with randomized daily hours and PDF export"
   homepage "https://github.com/Eyasluna/timesheet-automator"
-  url "https://github.com/Eyasluna/timesheet-automator/releases/download/v0.1.1/timesheet-automator-0.1.1.tar.gz"
-  sha256 "18138028b7d70b16ec4bf0f89a149cd36131d1b928d4e0a116a56dce10eb3bbf"
+  url "https://github.com/Eyasluna/timesheet-automator/releases/download/v0.1.2/timesheet-automator-0.1.2.tar.gz"
+  sha256 "e42cbd1704314bcfd4bffcd74fb9c2cd4c52bb0509a112c63908d77a3c589047"
   license "MIT"
 
   depends_on "node"
